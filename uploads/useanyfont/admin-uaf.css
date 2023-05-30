@@ -1,0 +1,11 @@
+				@font-face {
+					font-family: 'century-schoolbook';
+					src: url('/wp-content/uploads/useanyfont/3129Century-Schoolbook.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/3129Century-Schoolbook.woff') format('woff');
+				}
+
+				.century-schoolbook{font-family: 'century-schoolbook' !important;}
+
+				.et_gf_century-schoolbook{background:none !important;font-family:century-schoolbook;text-indent:0 !important;font-size:25px;}
+
+		
